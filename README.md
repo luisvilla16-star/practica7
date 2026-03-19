@@ -13,18 +13,4 @@ El sistema incluye:
 
 Cada sensor genera valores simulados aleatorios y permite probar encendido, calibración y lectura de datos.
 
-### Objetivos
-- Aplicar herencia y reuso de código.
-- Implementar clases abstractas y métodos abstractos.
-- Usar polimorfismo al manejar diferentes tipos de sensores.
-- Simular lecturas de sensores con valores aleatorios.
 
-### Cómo ejecutar
-1. Abrir el proyecto en **IntelliJ IDEA**.
-2. Ejecutar la clase principal `SistemaMonitoreo`.
-3. Observar en consola:
-   - Encendido de cada sensor.
-   - Calibración de cada sensor.
-   - Lectura de valores de cada sensor.
-
-### Estructura del proyecto
